@@ -1,0 +1,40 @@
+Script started on 2023-11-20 22:01:16-0600
+]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_6[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_6[00m$ exit./main.exe[6Pexit./main.exe
+Search for address: 
+49 W Dover St
+Address found!
+
+Latitude: 36.0597
+Longitude: -94.1472
+House Number: 49
+Street Name: W Dover St
+
+]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_6[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_6[00m$ ./main.exe
+Search for address: 
+54 W Drake St
+Address not found
+
+Searching for nearby addresses... 
+
+Latitude: 36.0853
+Longitude: -94.1955
+House Number: 53
+Street Name: W Drake St
+
+
+Latitude: 36.0854
+Longitude: -94.1955
+House Number: 55
+Street Name: W Drake St
+
+]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_6[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_6[00m$ ./main.exe
+Search for address: 
+123 Evan St
+Address not found
+
+Searching for nearby addresses... 
+No nearby addresses found
+]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_6[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_6[00m$ exit
+exit
+
+Script done on 2023-11-20 22:02:30-0600

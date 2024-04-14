@@ -1,0 +1,3 @@
+C:/Users/minec/source/repos/PF2/project_6/cmake-build-debug/CMakeFiles/project_6.dir
+C:/Users/minec/source/repos/PF2/project_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/minec/source/repos/PF2/project_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

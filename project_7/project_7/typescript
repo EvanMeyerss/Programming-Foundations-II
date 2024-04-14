@@ -1,0 +1,46 @@
+Script started on 2023-12-04 12:17:21-0600
+]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ .m[K/main.exe
+Enter name of address file:
+address1.e txt
+Number of addresses inserted: 33129
+Number of recursive calls: 684572
+Average calls per insert: 20.6638
+
+Enter house number and street name:
+99 Webb Way
+
+Latitude: 36.0709
+Longitude: -94.1882
+House Number: 99
+Street Name: Webb Way
+Number of recursive calls: 10
+
+Would you like to search for another address? (Yes = 1, No = 0);
+1
+
+Enter house number and street name:
+1010  Progam S    ram St
+Address not found!
+
+Would you like to search for another address? (Yes = 1, No = 0);
+1
+
+Enter house number and street name:
+41 Peachtree Dr
+
+Latitude: 36.03
+Longitude: -94.138
+House Number: 41
+Street Name: Peachtree Dr
+Number of recursive calls: 27
+
+Would you like to search for another address? (Yes = 1, No = 0);
+8
+Invalid input. Try again:
+k
+Invalid input. Try again:
+0
+]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ [K]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ [K]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ [K]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ [K]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ [K]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ [K]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ [K]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ [K]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ [K]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ [K]0;epmeyers@turing: ~/Linuxstuff/PF2/projects/project_7[01;32mepmeyers@turing[00m:[01;34m~/Linuxstuff/PF2/projects/project_7[00m$ exit
+exit
+
+Script done on 2023-12-04 12:18:26-0600
