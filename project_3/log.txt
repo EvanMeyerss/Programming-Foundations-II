@@ -1,0 +1,18 @@
+Author: Evan Meyers
+--------------------------------------------------------------------------------------
+
+9/25 - 12:25pm:
+    Read function works:
+        Uses din to read data and stores num and name as string types in a 2d array
+
+    Find function works:
+        Loops until desired word is found and returns int value of words rarity
+        STOIs the string from the array
+
+
+
+--------------------------------------------------------------------------------------
+
+9/28 - 2:07pm:
+    I'm goated with the sauce (Project is finished).
+
